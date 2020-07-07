@@ -1,0 +1,22 @@
+BeginString(8) = FIX.4.4
+BodyLength(9) = 326
+MsgType(35) = NewOrderSingle(D)
+NoPartyIDs(453) = 3
+	PartyID(448) = DEU
+	PartyIDSource(447) = BIC(B)
+	PartyRole(452) = EXECUTING_FIRM(1)
+	NoPartySubIDs(802) = 1
+		PartySubID(523) = A1
+		PartySubIDType(803) = SECURITIES_ACCOUNT_NUMBER(10)
+	PartyID(448) = 104317
+	PartyIDSource(447) = CSD_PARTICIPANT_MEMBER_CODE(H)
+	PartyRole(452) = CLEARING_ACCOUNT(83)
+	PartyID(448) = GSI
+	PartyIDSource(447) = BIC(B)
+	PartyRole(452) = CLEARING_FIRM(4)
+	2376 = 23
+	NoPartySubIDs(802) = 1
+		PartySubID(523) = C3
+		PartySubIDType(803) = SECURITIES_ACCOUNT_NUMBER(10)
+
+
